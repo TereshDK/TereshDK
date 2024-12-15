@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ... <!-- null --> 
 - 📫 How to reach me ... <!-- null --> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrozmanGit&hide_progress=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrozmanGit&hide_progress=true&langs_count=5)
 
-<!--[![Teresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrozmanGit)](https://github.com/GrozmanGit/github-readme-stats)-->
+![Teresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrozmanGit&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true)
 
 
 <!---
