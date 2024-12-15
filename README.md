@@ -6,4 +6,4 @@
 
 ![Teresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrozmanGit&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrozmanGit&hide_progress=true&langs_count=5&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrozmanGit&hide_progress=true&langs_count=10&&hide_border=true&theme=dark&include_all_commits=true)
