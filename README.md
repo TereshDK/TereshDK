@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ... <!-- null --> 
 - 📫 How to reach me ... <!-- null --> 
 
-[![Teresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrozmanGit)](https://github.com/GrozmanGit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teresh)](https://github.com/GrozmanGit/github-readme-stats)
+
+<!--[![Teresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrozmanGit)](https://github.com/GrozmanGit/github-readme-stats)-->
+
 
 <!---
 GrozmanGit/GrozmanGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
