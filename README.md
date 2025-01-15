@@ -2,7 +2,7 @@
 
 - ### 👀 CS / Software Enthusiast
 - ### 💻 Likes Graphics Coding
-- ### 🌱 Total Repositories: 19
+- ### 🌱 Total Repositories: 19 (8 private)
 - ### ♦️ Languages: C, C++, Java, Rust, Python, P5.js, GLSL, XAML
 - ### ✨ Experience: OpenGL, WinUI3, Git, Bash...etc 
 
