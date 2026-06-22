@@ -1,6 +1,21 @@
-![Header](./github-header-image-o.png)
+![Header](./github-header-banner.png)
 
-- ### 👀 CS / Software Enthusiast
-- ### 💻 Likes Backend / Graphics Coding
-- ### ♦️ Languages: C, C++, Java, Rust, Python, P5.js, Javascript, SQL, PostgreSQL
-- ### ✨ Experience: OpenGL, GLSL, WinUI3, Docker, Git, Electron, React, Bash, n8n ...etc 
+## 💻 Student • Backend & Graphics / Software Enthusiast
+
+### 🧠 Languages
+C • C++ • C# • Java • Rust • Javascript • SQL • GLSL • HTML • CSS
+
+### 🧰 Frameworks & Platforms
+React • Electron • Vite • Supabase • WinUI3/WinRT • Tokio • n8n
+
+### 🗂 Databases
+PostgreSQL
+
+### 🧱 Libraries
+GLFW • GLM • Glad • STB • ImGui • SpdLog • Other 
+
+### 🛠 Developer Tools
+Git • Docker • Bash • PowerShell • VS Code • Visual Studio • IntelliJ • CLion • Jira • Linear
+
+### 🎮 Interests
+Graphics programming • Engine systems • Backend systems • Automation workflows
