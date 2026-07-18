@@ -3,7 +3,7 @@
 ## 💻 Student • Backend & Graphics / Software Enthusiast
 
 ### 🧠 Languages
-C • C++ • C# • Java • Rust • Javascript • SQL • GLSL • HTML • CSS
+C • C++ • Java • Rust • Javascript • SQL • GLSL • HTML • CSS
 
 ### 🧰 Frameworks & Platforms
 React • Electron • Vite • Supabase • WinUI3/WinRT • Tokio • n8n
